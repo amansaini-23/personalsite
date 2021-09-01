@@ -29,6 +29,9 @@ body {
     padding-top: 100px;
     position: relative;
 }
+.mountain-image {
+    width: 30%;
+}
 
 .middle-container {
     background-color: #FFD8CC;
